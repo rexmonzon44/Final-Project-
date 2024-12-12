@@ -1,0 +1,7 @@
+101 Rex Monzon 123_Main_St Springfield IL 62701 555-1234
+102 Sarah Smith 456_Oak_St Chicago IL 60601 555-5678
+103 Luis Gonzales 789_Pine_St Peoria IL 61602 555-9012
+104 George Arthur 123_Gary_St Brooklyn NY 12552 444-2123
+
+
+
